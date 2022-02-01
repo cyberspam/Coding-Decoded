@@ -168,7 +168,7 @@ These questions are intended for those who are preparing for Google.
 | 162 |	Coin Change	| [Link](	https://leetcode.com/problems/coin-change	) | PENDING | 	Dynamic Programming
 | 163 |	Word Break	| [Link](	https://leetcode.com/problems/word-break	) | PENDING | 	Dynamic Programming
 | 164 |	Climbing Stairs	| [Link](	https://leetcode.com/problems/climbing-stairs	) | PENDING | 	Dynamic Programming
-| 165 |	Coin Change 2	| [Link](	https://leetcode.com/problems/coin-change-2	) | PENDING | 	Dynamic Programming
+| 165 |	~Coin Change 2~	| [Link](	https://leetcode.com/problems/coin-change-2	) | done | 	Dynamic Programming
 | 166 |	Tiling a Rectangle with the Fewest Squares	| [Link](	https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares	) | PENDING | 	Dynamic ProgrammingBacktracking
 | 167 |	Campus Bikes II	| [Link](	https://leetcode.com/problems/campus-bikes-ii	) | PENDING | 	Dynamic ProgrammingBacktracking
 | 168 |	Android Unlock Patterns	| [Link](	https://leetcode.com/problems/android-unlock-patterns	) | PENDING | 	Dynamic ProgrammingBacktracking
