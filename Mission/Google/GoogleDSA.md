@@ -71,7 +71,7 @@ These questions are intended for those who are preparing for Google.
 | 65 |	Minimum Size Subarray Sum	| [Link](	https://leetcode.com/problems/minimum-size-subarray-sum	) | PENDING | 	Array Two Pointers Binary Search
 | 66 |	Longest Consecutive Sequence	| [Link](	https://leetcode.com/problems/longest-consecutive-sequence	) | PENDING | 	Array Union Find
 | 67 |	Brace Expansion	| [Link](	https://leetcode.com/problems/brace-expansion	) | PENDING | 	Backtracking
-| 68 |	Palindrome Partitioning	| [Link](	https://leetcode.com/problems/palindrome-partitioning	) | PENDING | 	Backtracking
+| 68 |	~Palindrome Partitioning~	| [Link](	https://leetcode.com/problems/palindrome-partitioning	) | PENDING | 	Backtracking
 | 69 |	Combinations	| [Link](	https://leetcode.com/problems/combinations	) | PENDING | 	Backtracking
 | 70 |	Permutations	| [Link](	https://leetcode.com/problems/permutations	) | PENDING | 	Backtracking
 | 71 |	Unique Paths III	| [Link](	https://leetcode.com/problems/unique-paths-iii	) | PENDING | 	BacktrackingDepth-first Search
