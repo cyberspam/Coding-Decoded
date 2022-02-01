@@ -184,7 +184,7 @@ These questions are intended for those who are preparing for Google.
 | 178 |	String Transforms Into Another String	| [Link](	https://leetcode.com/problems/string-transforms-into-another-string	) | PENDING | 	Graph
 | 179 |	Sequence Reconstruction	| [Link](	https://leetcode.com/problems/sequence-reconstruction	) | PENDING | 	GraphTopological Sort
 | 180 |	Alien Dictionary	| [Link](	https://leetcode.com/problems/alien-dictionary	) | PENDING | 	GraphTopological Sort
-| 181 |	Two City Scheduling	| [Link](	https://leetcode.com/problems/two-city-scheduling	) | PENDING | 	Greedy
+| 181 |	~Two City Scheduling~	| [Link](	https://leetcode.com/problems/two-city-scheduling	) | done | 	Greedy
 | 182 |	Course Schedule III	| [Link](	https://leetcode.com/problems/course-schedule-iii	) | PENDING | 	Greedy
 | 183 |	Queue Reconstruction by Height	| [Link](	https://leetcode.com/problems/queue-reconstruction-by-height	) | PENDING | 	Greedy
 | 184 |	Non-overlapping Intervals	| [Link](	https://leetcode.com/problems/non-overlapping-intervals	) | PENDING | 	Greedy
