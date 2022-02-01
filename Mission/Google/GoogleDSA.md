@@ -338,7 +338,7 @@ These questions are intended for those who are preparing for Google.
 | 332 |	Serialize and Deserialize Binary Tree	| [Link](	https://leetcode.com/problems/serialize-and-deserialize-binary-tree	) | PENDING | 	TreeDesign
 | 333 |	All Possible Full Binary Trees	| [Link](	https://leetcode.com/problems/all-possible-full-binary-trees	) | PENDING | 	TreeRecursion
 | 334 |	Stream of Characters	| [Link](	https://leetcode.com/problems/stream-of-characters	) | PENDING | 	Trie
-| 335 |	Fruit Into Baskets	| [Link](	https://leetcode.com/problems/fruit-into-baskets	) | PENDING | 	Two Pointers
+| 335 |	~Fruit Into Baskets~	| [Link](	https://leetcode.com/problems/fruit-into-baskets	) | done | 	Two Pointers
 | 336 |	Backspace String Compare	| [Link](	https://leetcode.com/problems/backspace-string-compare	) | PENDING | 	Two PointersStack
 | 337 |	Evaluate Division	| [Link](	https://leetcode.com/problems/evaluate-division	) | PENDING | 	Union FindGraph
 
