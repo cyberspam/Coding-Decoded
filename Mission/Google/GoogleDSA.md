@@ -99,7 +99,7 @@ These questions are intended for those who are preparing for Google.
 | 93 |	Maximum Score Words Formed by Letters	| [Link](	https://leetcode.com/problems/maximum-score-words-formed-by-letters	) | PENDING | 	Bit Manipulation
 | 94 |	UTF-8 Validation	| [Link](	https://leetcode.com/problems/utf-8-validation	) | PENDING | 	Bit Manipulation
 | 95 |	Single Number II	| [Link](	https://leetcode.com/problems/single-number-ii	) | PENDING | 	Bit Manipulation
-| 96 |	Swap Adjacent in LR String	| [Link](	https://leetcode.com/problems/swap-adjacent-in-lr-string	) | PENDING | 	Brainteaser
+| 96 |	~Swap Adjacent in LR String~	| [Link](	https://leetcode.com/problems/swap-adjacent-in-lr-string	) | done | 	Brainteaser
 | 97 |	Shortest Path in a Grid with Obstacles Elimination	| [Link](	https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination	) | PENDING | 	Breadth-first Search
 | 98 |	Minimum Cost to Make at Least One Valid Path in a Grid	| [Link](	https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid	) | PENDING | 	Breadth-first Search
 | 99 |	Jump Game IV	| [Link](	https://leetcode.com/problems/jump-game-iv	) | PENDING | 	Breadth-first Search
