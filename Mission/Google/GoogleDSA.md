@@ -205,7 +205,7 @@ These questions are intended for those who are preparing for Google.
 | 199 |	Employee Importance	| [Link](	https://leetcode.com/problems/employee-importance	) | PENDING | 	Hash TableDepth-first SearchBreadth-first Search
 | 200 |	Logger Rate Limiter	| [Link](	https://leetcode.com/problems/logger-rate-limiter	) | PENDING | 	Hash TableDesign
 | 201 |	Design HashMap	| [Link](	https://leetcode.com/problems/design-hashmap	) | PENDING | 	Hash TableDesign
-| 202 |	Longest String Chain	| [Link](	https://leetcode.com/problems/longest-string-chain	) | PENDING | 	Hash TableDynamic Programming
+| 202 |	~Longest String Chain~	| [Link](	https://leetcode.com/problems/longest-string-chain	) | DONE | 	Hash TableDynamic Programming
 | 203 |	Top K Frequent Elements	| [Link](	https://leetcode.com/problems/top-k-frequent-elements	) | PENDING | 	Hash TableHeap
 | 204 |	Top K Frequent Words	| [Link](	https://leetcode.com/problems/top-k-frequent-words	) | PENDING | 	Hash TableHeapTrie
 | 205 |	Max Points on a Line	| [Link](	https://leetcode.com/problems/max-points-on-a-line	) | PENDING | 	Hash TableMath
