@@ -339,7 +339,7 @@ These questions are intended for those who are preparing for Google.
 | 333 |	All Possible Full Binary Trees	| [Link](	https://leetcode.com/problems/all-possible-full-binary-trees	) | PENDING | 	TreeRecursion
 | 334 |	Stream of Characters	| [Link](	https://leetcode.com/problems/stream-of-characters	) | PENDING | 	Trie
 | 335 |	~Fruit Into Baskets~	| [Link](	https://leetcode.com/problems/fruit-into-baskets	) | done | 	Two Pointers
-| 336 |	Backspace String Compare	| [Link](	https://leetcode.com/problems/backspace-string-compare	) | PENDING | 	Two PointersStack
+| 336 |	~Backspace String Compare~	| [Link](	https://leetcode.com/problems/backspace-string-compare	) | done | 	Two PointersStack
 | 337 |	Evaluate Division	| [Link](	https://leetcode.com/problems/evaluate-division	) | PENDING | 	Union FindGraph
 
 Disclaimer : It does not have any connection with Google as a company.
